@@ -1,6 +1,7 @@
-# pc-part-picker
+# app: pc-part-picker
 
-# powershell/bash: php -S localhost:8888
+# run on powershell / bash: php -S localhost:8888
+
 # Test data: {
 	First name: John,
 	Last name: Doe,
@@ -14,6 +15,6 @@
 	Credit card number: 9999 9999 9999 9999
 	Expiration: 99/99
 	CVV: 999
-}
+# }
 
 # You can test form with any data which you want!
