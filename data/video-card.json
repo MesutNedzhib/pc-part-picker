@@ -1,0 +1,402 @@
+[
+  {
+    "price": -1,
+    "name": "MSI GTX 970 GAMING 4G"
+  },
+  {
+    "price": 4535,
+    "name": "MSI GT 710 2GD3 LP"
+  },
+  {
+    "price": 54999,
+    "name": "EVGA 08G-P4-6286"
+  },
+  {
+    "price": 51498,
+    "name": "EVGA 08G-P4-6183"
+  },
+  {
+    "price": 50498,
+    "name": "EVGA 08G-P4-6181"
+  },
+  {
+    "price": 56700,
+    "name": "MSI GTX 1080 GAMING X 8G"
+  },
+  {
+    "price": 55999,
+    "name": "Gigabyte GV-N1080G1 GAMING-8GD"
+  },
+  {
+    "price": 50499,
+    "name": "Asus ROG STRIX-GTX1070-O8G-GAMING"
+  },
+  {
+    "price": 45999,
+    "name": "EVGA 08G-P4-6173-KR"
+  },
+  {
+    "price": 47498,
+    "name": "Gigabyte GV-N1070G1-GAMING-8GD"
+  },
+  {
+    "price": 41251,
+    "name": "MSI GeForce GTX 1070 ARMOR 8G OC"
+  },
+  {
+    "price": 54999,
+    "name": "NVIDIA 9001G4132500001"
+  },
+  {
+    "price": 31799,
+    "name": "MSI GEFORCE GTX 1060 GAMING X 6G"
+  },
+  {
+    "price": 27999,
+    "name": "EVGA 06G-P4-6161-KR"
+  },
+  {
+    "price": 29999,
+    "name": "EVGA 06G-P4-6163-KR"
+  },
+  {
+    "price": 29999,
+    "name": "Zotac ZT-P10600B-10M"
+  },
+  {
+    "price": 26999,
+    "name": "Zotac ZT-P10600A-10L"
+  },
+  {
+    "price": 36999,
+    "name": "Asus ROG STRIX-GTX1060-O6G-GAMING"
+  },
+  {
+    "price": 58599,
+    "name": "Asus ROG STRIX-GTX1080-8G-GAMING"
+  },
+  {
+    "price": 49989,
+    "name": "Asus ROG STRIX-GTX1070-8G-GAMING"
+  },
+  {
+    "price": 55999,
+    "name": "EVGA 08G-P4-6288-KR"
+  },
+  {
+    "price": 44999,
+    "name": "Asus DUAL-GTX1070-O8G"
+  },
+  {
+    "price": 31520,
+    "name": "Asus DUAL-GTX1060-O6G"
+  },
+  {
+    "price": 60989,
+    "name": "Asus ROG STRIX-GTX1080-A8G-GAMING"
+  },
+  {
+    "price": 30899,
+    "name": "Gigabyte GV-N1060WF2OC-6GD"
+  },
+  {
+    "price": 22800,
+    "name": "EVGA 03G-P4-6162"
+  },
+  {
+    "price": 52999,
+    "name": "Gigabyte GV-N1080WF3OC-8GD"
+  },
+  {
+    "price": -1,
+    "name": "NVIDIA 9001G4112520001"
+  },
+  {
+    "price": 44999,
+    "name": "EVGA 08G-P4-5173-KR"
+  },
+  {
+    "price": 23599,
+    "name": "Asus DUAL-GTX1060-O3G"
+  },
+  {
+    "price": 27999,
+    "name": "Gigabyte GV-N1060IXOC-6GD"
+  },
+  {
+    "price": 22999,
+    "name": "Gigabyte GV-N1060WF2OC-3GD"
+  },
+  {
+    "price": 41999,
+    "name": "Zotac ZT-P10700G-10M"
+  },
+  {
+    "price": 38999,
+    "name": "NVIDIA GEFORCE GTX 1060 6GB FOUNDERS EDITION"
+  },
+  {
+    "price": 27599,
+    "name": "MSI GeForce GTX 1060 6GT OCV1"
+  },
+  {
+    "price": 16900,
+    "name": "Zotac ZT-P10510A-10L"
+  },
+  {
+    "price": 17999,
+    "name": "Zotac ZT-P10510B-10L"
+  },
+  {
+    "price": 18999,
+    "name": "EVGA 04G-P4-6251-KR"
+  },
+  {
+    "price": 19498,
+    "name": "EVGA 04G-P4-6255-KR"
+  },
+  {
+    "price": 19999,
+    "name": "EVGA 04G-P4-6253-KR"
+  },
+  {
+    "price": 13999,
+    "name": "EVGA 02G-P4-6152-KR"
+  },
+  {
+    "price": 21998,
+    "name": "MSI GTX 1050 Ti GAMING X 4G"
+  },
+  {
+    "price": 18890,
+    "name": "MSI GTX 1050 Ti 4G OC"
+  },
+  {
+    "price": 11999,
+    "name": "MSI GTX 1050 2G OC"
+  },
+  {
+    "price": 17629,
+    "name": "Asus PH-GTX1050TI-4G"
+  },
+  {
+    "price": 21889,
+    "name": "Asus STRIX-GTX1050TI-O4G-GAMING"
+  },
+  {
+    "price": 19500,
+    "name": "Gigabyte GV-N105TWF2OC-4GD"
+  },
+  {
+    "price": 19998,
+    "name": "MSI GTX 1050 Ti 4GT OC"
+  },
+  {
+    "price": 58999,
+    "name": "EVGA 08G-P4-6583-KR"
+  },
+  {
+    "price": 14488,
+    "name": "Gigabyte GV-N1050OC-2GD"
+  },
+  {
+    "price": 32003,
+    "name": "Asus ROG STRIX-GTX1060-6G-GAMING"
+  },
+  {
+    "price": 78488,
+    "name": "Asus TURBO-GTX1080TI-11G"
+  },
+  {
+    "price": 129999,
+    "name": "EVGA 11G-P4-6390-KR"
+  },
+  {
+    "price": 75999,
+    "name": "EVGA 11G-P4-6393-KR"
+  },
+  {
+    "price": 79989,
+    "name": "EVGA 11G-P4-6696-KR"
+  },
+  {
+    "price": 52498,
+    "name": "MSI GTX 1080 DUKE 8G OC"
+  },
+  {
+    "price": 49999,
+    "name": "Zotac ZT-P10800H-10P"
+  },
+  {
+    "price": 76499,
+    "name": "MSI GeForce GTX 1080 TI ARMOR 11G OC"
+  },
+  {
+    "price": 17999,
+    "name": "MSI GTX 1050 Ti AERO ITX 4G OC"
+  },
+  {
+    "price": 74999,
+    "name": "Gigabyte GV-N108TGAMING OC-11GD"
+  },
+  {
+    "price": 86999,
+    "name": "Gigabyte GV-N108TAORUS X-11GD"
+  },
+  {
+    "price": 89899,
+    "name": "Asus STRIX-GTX1080TI-O11G-GAMING"
+  },
+  {
+    "price": 82999,
+    "name": "Asus STRIX-GTX1080TI-11G-GAMING"
+  },
+  {
+    "price": 85498,
+    "name": "MSI GeForce GTX 1080 Ti GAMING X 11G"
+  },
+  {
+    "price": 79899,
+    "name": "Zotac ZT-P10810C-10P"
+  },
+  {
+    "price": 77498,
+    "name": "Zotac ZT-P10810D-10P"
+  },
+  {
+    "price": 25999,
+    "name": "Gigabyte GV-RX580GAMING-4GD"
+  },
+  {
+    "price": 25499,
+    "name": "Asus ROG-STRIX-RX570-O4G-GAMING"
+  },
+  {
+    "price": 35999,
+    "name": "Asus ROG-STRIX-RX580-O8G-GAMING"
+  },
+  {
+    "price": 28398,
+    "name": "MSI RX 580 ARMOR 8G OC"
+  },
+  {
+    "price": 30489,
+    "name": "Sapphire 11265-01-20G"
+  },
+  {
+    "price": 27498,
+    "name": "MSI RX 570 ARMOR 8G OC"
+  },
+  {
+    "price": 139999,
+    "name": "NVIDIA 900-1G611-2530-000"
+  },
+  {
+    "price": 11887,
+    "name": "XFX RX-550P4SFG5"
+  },
+  {
+    "price": 77999,
+    "name": "EVGA 11G-P4-6598-KR"
+  },
+  {
+    "price": 9398,
+    "name": "Gigabyte GV-N1030SL-2GL"
+  },
+  {
+    "price": 32989,
+    "name": "EVGA 06G-P4-6267-KR"
+  },
+  {
+    "price": 13999,
+    "name": "MSI RX 560 AERO ITX 4G OC"
+  },
+  {
+    "price": 106800,
+    "name": "NVIDIA 900-1G611-2550-000"
+  },
+  {
+    "price": 72999,
+    "name": "Zotac ZT-P10810G-10P"
+  },
+  {
+    "price": 95999,
+    "name": "Gigabyte GV-N108TAORUSX W-11GD"
+  },
+  {
+    "price": 79989,
+    "name": "EVGA 11G-P4-6698-KR"
+  },
+  {
+    "price": 75900,
+    "name": "Asus ROG-STRIX-RXVEGA64-O8G-GAMING"
+  },
+  {
+    "price": 28989,
+    "name": "Asus DUAL-RX580-O8G"
+  },
+  {
+    "price": 707797,
+    "name": "PNY VCQGP100-PB"
+  },
+  {
+    "price": 50999,
+    "name": "Gigabyte GV-N1080IX-8GD"
+  },
+  {
+    "price": 49999,
+    "name": "Asus ROG-STRIX-GTX1070TI-A8G-GAMING"
+  },
+  {
+    "price": 45999,
+    "name": "EVGA 08G-P4-5671-KR"
+  },
+  {
+    "price": 47989,
+    "name": "MSI GTX 1070 TI TITANIUM 8G"
+  },
+  {
+    "price": 45999,
+    "name": "MSI GTX 1070 TI GAMING 8G"
+  },
+  {
+    "price": 46989,
+    "name": "MSI GTX 1070 TI DUKE 8G"
+  },
+  {
+    "price": 44999,
+    "name": "Zotac ZT-P10710G-10P"
+  },
+  {
+    "price": -1,
+    "name": "Palit NE5107T015P2-1043D"
+  },
+  {
+    "price": 87498,
+    "name": "MSI GTX 1080 Ti GAMING X TRIO"
+  },
+  {
+    "price": 315677,
+    "name": "NVIDIA 900-1G500-2500-000"
+  },
+  {
+    "price": 9398,
+    "name": "Gigabyte GV-N1030OC-2GI"
+  },
+  {
+    "price": 48989,
+    "name": "EVGA 08G-P4-6678-KR"
+  },
+  {
+    "price": 27999,
+    "name": "MSI RX 580 ARMOR MK2 8G OC"
+  },
+  {
+    "price": 54999,
+    "name": "NVIDIA 900-1G411-2510-000"
+  },
+  {
+    "price": 28498,
+    "name": "ASRock RX580 8G OC"
+  }
+]

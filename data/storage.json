@@ -1,0 +1,402 @@
+[
+  {
+    "price": 3999,
+    "name": "Western Digital WD1002FBYS"
+  },
+  {
+    "price": 1915,
+    "name": "Western Digital WD3200AAJS"
+  },
+  {
+    "price": 1988,
+    "name": "Western Digital WD5000AVVS"
+  },
+  {
+    "price": 3900,
+    "name": "Hitachi E7K1000"
+  },
+  {
+    "price": 1899,
+    "name": "Seagate ST3160316CS"
+  },
+  {
+    "price": 4999,
+    "name": "Samsung HD204UI"
+  },
+  {
+    "price": 3199,
+    "name": "Western Digital WD5000AAKX"
+  },
+  {
+    "price": 5388,
+    "name": "Hitachi HUA723020ALA640"
+  },
+  {
+    "price": 10216,
+    "name": "Seagate ST1000NM0011"
+  },
+  {
+    "price": 5849,
+    "name": "Seagate ST2000DM001"
+  },
+  {
+    "price": 4688,
+    "name": "Seagate ST1000DM003"
+  },
+  {
+    "price": 7209,
+    "name": "Seagate ST3000DM001"
+  },
+  {
+    "price": 5195,
+    "name": "Toshiba MK2002TSKB"
+  },
+  {
+    "price": 3499,
+    "name": "Western Digital WD10EURX"
+  },
+  {
+    "price": 4390,
+    "name": "Western Digital WD10EZEX"
+  },
+  {
+    "price": 4289,
+    "name": "Toshiba DT01ACA100"
+  },
+  {
+    "price": 8700,
+    "name": "Seagate ST4000DM000"
+  },
+  {
+    "price": 5999,
+    "name": "Toshiba MG03ACA300"
+  },
+  {
+    "price": 12399,
+    "name": "Western Digital WD40EFRX"
+  },
+  {
+    "price": 10989,
+    "name": "Western Digital WD2003FZEX"
+  },
+  {
+    "price": 7069,
+    "name": "Western Digital WD1003FZEX"
+  },
+  {
+    "price": 13999,
+    "name": "Samsung MZ-7KE256BW"
+  },
+  {
+    "price": 13999,
+    "name": "Samsung MZ-75E500B/AM"
+  },
+  {
+    "price": 9999,
+    "name": "Samsung MZ-75E250B/AM"
+  },
+  {
+    "price": 31995,
+    "name": "Samsung MZ-75E1T0B/AM"
+  },
+  {
+    "price": 8695,
+    "name": "Samsung MZ-75E120B/AM"
+  },
+  {
+    "price": 5799,
+    "name": "Western Digital WD20EZRZ"
+  },
+  {
+    "price": 9889,
+    "name": "Western Digital WD40EZRZ"
+  },
+  {
+    "price": 4389,
+    "name": "Western Digital WD10EZRZ"
+  },
+  {
+    "price": 10999,
+    "name": "Toshiba HDWE140XZSTA"
+  },
+  {
+    "price": 669999,
+    "name": "Intel SSDPECME040T401"
+  },
+  {
+    "price": 4795,
+    "name": "SanDisk SD8SN8U-128G-1122"
+  },
+  {
+    "price": 154999,
+    "name": "Samsung MZ-75E4T0B"
+  },
+  {
+    "price": 5887,
+    "name": "Seagate ST2000DM006"
+  },
+  {
+    "price": 31388,
+    "name": "Seagate ST10000VN0004"
+  },
+  {
+    "price": 8289,
+    "name": "Seagate ST3000DM008"
+  },
+  {
+    "price": 7289,
+    "name": "Seagate ST1000DX002"
+  },
+  {
+    "price": 9989,
+    "name": "Seagate ST2000DX002"
+  },
+  {
+    "price": 4899,
+    "name": "SanDisk SDSSDA-120G-G26"
+  },
+  {
+    "price": 5999,
+    "name": "SanDisk SDSSDA-240G-G26"
+  },
+  {
+    "price": 10490,
+    "name": "SanDisk SDSSDA-480G-G26"
+  },
+  {
+    "price": 5899,
+    "name": "ADATA ASU800SS-256GT-C"
+  },
+  {
+    "price": 10299,
+    "name": "ADATA ASU800SS-512GT-C"
+  },
+  {
+    "price": 3699,
+    "name": "ADATA ASU800SS-128GT-C"
+  },
+  {
+    "price": 18189,
+    "name": "Western Digital WD4004FZWX"
+  },
+  {
+    "price": 112512,
+    "name": "Samsung MZ-V6P2T0BW"
+  },
+  {
+    "price": 24999,
+    "name": "Samsung MZ-V6P512BW"
+  },
+  {
+    "price": 11268,
+    "name": "Samsung MZ-V6E250"
+  },
+  {
+    "price": 20881,
+    "name": "Samsung MZ-V6E500"
+  },
+  {
+    "price": 41699,
+    "name": "Samsung MZ-V6E1T0"
+  },
+  {
+    "price": 4339,
+    "name": "Seagate ST1000DM010"
+  },
+  {
+    "price": 7999,
+    "name": "Seagate ST2000LX001"
+  },
+  {
+    "price": 6484,
+    "name": "Western Digital WDS240G1G0B"
+  },
+  {
+    "price": 5689,
+    "name": "Seagate ST1000LX015"
+  },
+  {
+    "price": 15894,
+    "name": "Western Digital WDS512G1X0C"
+  },
+  {
+    "price": 8989,
+    "name": "Western Digital WDS256G1X0C"
+  },
+  {
+    "price": 16898,
+    "name": "Seagate ST4000DM006"
+  },
+  {
+    "price": 3499,
+    "name": "Kingston SA400S37/120G"
+  },
+  {
+    "price": 5383,
+    "name": "Kingston SA400S37/240G"
+  },
+  {
+    "price": 10008,
+    "name": "Kingston SA400S37/480G"
+  },
+  {
+    "price": 48999,
+    "name": "Western Digital WD121KRYZ"
+  },
+  {
+    "price": 40799,
+    "name": "Seagate ST12000VN0007"
+  },
+  {
+    "price": 10999,
+    "name": "Western Digital WDS500G2B0B"
+  },
+  {
+    "price": 9289,
+    "name": "Seagate ST4000DM004"
+  },
+  {
+    "price": 6499,
+    "name": "ADATA ASX6000NP-256GT-C"
+  },
+  {
+    "price": 9799,
+    "name": "ADATA ASX6000NP-512GT-C"
+  },
+  {
+    "price": 19989,
+    "name": "Crucial CT1000MX500SSD1"
+  },
+  {
+    "price": 43998,
+    "name": "Seagate ST12000DM0007"
+  },
+  {
+    "price": 7447,
+    "name": "Western Digital WDS250G2B0A"
+  },
+  {
+    "price": 10999,
+    "name": "Western Digital WDS500G2B0A"
+  },
+  {
+    "price": 6999,
+    "name": "Western Digital WDS250G2B0B"
+  },
+  {
+    "price": 22999,
+    "name": "Western Digital WDS100T2B0B"
+  },
+  {
+    "price": 4150,
+    "name": "Western Digital WDS120G2G0A"
+  },
+  {
+    "price": 6989,
+    "name": "Crucial CT250MX500SSD1"
+  },
+  {
+    "price": 10985,
+    "name": "Crucial CT500MX500SSD1"
+  },
+  {
+    "price": 11388,
+    "name": "Samsung MZ-76E500B/AM"
+  },
+  {
+    "price": 7888,
+    "name": "Samsung MZ-76E250B/AM"
+  },
+  {
+    "price": 23799,
+    "name": "Samsung MZ-76E1T0B/AM"
+  },
+  {
+    "price": 49799,
+    "name": "Samsung MZ-76E2T0B/AM"
+  },
+  {
+    "price": 105000,
+    "name": "Samsung MZ-76E4T0B/AM"
+  },
+  {
+    "price": 2499,
+    "name": "Inland 349381"
+  },
+  {
+    "price": 169799,
+    "name": "Samsung MZ-76P4T0BW"
+  },
+  {
+    "price": 8149,
+    "name": "Samsung MZ-N6E250BW"
+  },
+  {
+    "price": 12989,
+    "name": "Samsung MZ-N6E500BW"
+  },
+  {
+    "price": 23780,
+    "name": "Samsung MZ-N6E1T0BW"
+  },
+  {
+    "price": 3999,
+    "name": "ADATA ASU650SS-120GT-C"
+  },
+  {
+    "price": 6249,
+    "name": "ADATA ASU650SS-240GT-C"
+  },
+  {
+    "price": 4499,
+    "name": "Inland 349365"
+  },
+  {
+    "price": 19999,
+    "name": "Western Digital WDS500G2X0C"
+  },
+  {
+    "price": 10610,
+    "name": "Samsung MZ-V7E250BW"
+  },
+  {
+    "price": 19799,
+    "name": "Samsung MZ-V7E500BW"
+  },
+  {
+    "price": 39799,
+    "name": "Samsung MZ-V7E1T0BW"
+  },
+  {
+    "price": 79799,
+    "name": "Samsung MZ-V7E2T0BW"
+  },
+  {
+    "price": 22999,
+    "name": "Samsung MZ-V7P512BW"
+  },
+  {
+    "price": 49799,
+    "name": "Samsung MZ-V7P1T0BW"
+  },
+  {
+    "price": 29399,
+    "name": "Micron MTFDDAK2T0TBN-1AR1ZABYY"
+  },
+  {
+    "price": 19999,
+    "name": "Crucial CT1000MX500SSD4"
+  },
+  {
+    "price": 10989,
+    "name": "Crucial CT500MX500SSD4"
+  },
+  {
+    "price": 6985,
+    "name": "Crucial CT250MX500SSD4"
+  },
+  {
+    "price": 7999,
+    "name": "Team T2535T480G0C101"
+  }
+]

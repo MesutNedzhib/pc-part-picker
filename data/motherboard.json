@@ -1,0 +1,402 @@
+[
+  {
+    "price": 11949,
+    "name": "Intel DH61CRB3"
+  },
+  {
+    "price": 6999,
+    "name": "Gigabyte GA-970A-DS3P"
+  },
+  {
+    "price": 5999,
+    "name": "MSI H81M-E35"
+  },
+  {
+    "price": 4624,
+    "name": "Gigabyte GA-F2A68HM-H"
+  },
+  {
+    "price": 168316,
+    "name": "MSI X99A GODLIKE GAMING"
+  },
+  {
+    "price": 31077,
+    "name": "Asus MAXIMUS VIII HERO"
+  },
+  {
+    "price": 4516,
+    "name": "Gigabyte GA-H110M-A"
+  },
+  {
+    "price": 5700,
+    "name": "Asus M5A78L-M PLUS/USB3"
+  },
+  {
+    "price": 35899,
+    "name": "Asus PRIME Z270-A"
+  },
+  {
+    "price": 13095,
+    "name": "Asus STRIX H270F GAMING"
+  },
+  {
+    "price": 7933,
+    "name": "MSI B250 PC MATE"
+  },
+  {
+    "price": 6840,
+    "name": "MSI B250M GAMING PRO"
+  },
+  {
+    "price": 5398,
+    "name": "MSI B250M PRO-VDH"
+  },
+  {
+    "price": 10779,
+    "name": "MSI Z270-A PRO"
+  },
+  {
+    "price": 5489,
+    "name": "Gigabyte GA-B250M-DS3H"
+  },
+  {
+    "price": 11098,
+    "name": "ASRock X370 KILLER SLI/ac"
+  },
+  {
+    "price": 9584,
+    "name": "Asus PRIME B350-PLUS"
+  },
+  {
+    "price": 9939,
+    "name": "Gigabyte GA-AB350-GAMING 3"
+  },
+  {
+    "price": 8621,
+    "name": "Gigabyte GA-AB350-Gaming"
+  },
+  {
+    "price": 7689,
+    "name": "Gigabyte GA-AB350M-Gaming 3"
+  },
+  {
+    "price": 5989,
+    "name": "MSI B350M GAMING PRO"
+  },
+  {
+    "price": 7928,
+    "name": "MSI B350 TOMAHAWK"
+  },
+  {
+    "price": 5489,
+    "name": "ASRock AB350M"
+  },
+  {
+    "price": 7286,
+    "name": "ASRock AB350 Pro4"
+  },
+  {
+    "price": 6439,
+    "name": "ASRock AB350M Pro4"
+  },
+  {
+    "price": 4789,
+    "name": "MSI B250M PRO-VD"
+  },
+  {
+    "price": 13988,
+    "name": "Gigabyte GA-AX370-Gaming K5"
+  },
+  {
+    "price": 6989,
+    "name": "MSI B350 PC MATE"
+  },
+  {
+    "price": 9993,
+    "name": "MSI X370 GAMING PRO"
+  },
+  {
+    "price": 8999,
+    "name": "Biostar X370GTN"
+  },
+  {
+    "price": 9098,
+    "name": "MSI B350 GAMING PLUS"
+  },
+  {
+    "price": 4949,
+    "name": "ASRock A320M-DGS"
+  },
+  {
+    "price": 6499,
+    "name": "MSI B350M PRO-VDH"
+  },
+  {
+    "price": 11189,
+    "name": "Asus STRIX B350-F GAMING"
+  },
+  {
+    "price": 10188,
+    "name": "MSI X370 GAMING PLUS"
+  },
+  {
+    "price": 29999,
+    "name": "Asus STRIX X299-E GAMING"
+  },
+  {
+    "price": 44299,
+    "name": "Asus PRIME X299-DELUXE"
+  },
+  {
+    "price": 16260,
+    "name": "Asus STRIX X370-F GAMING"
+  },
+  {
+    "price": 10799,
+    "name": "ASRock AB350 Gaming-ITX/ac"
+  },
+  {
+    "price": 10999,
+    "name": "Gigabyte GA-AB350N-Gaming WIFI (rev. 1.0)"
+  },
+  {
+    "price": 5899,
+    "name": "Asus PRIME A320M-K"
+  },
+  {
+    "price": 11315,
+    "name": "MSI Z270 GAMING PLUS"
+  },
+  {
+    "price": 28989,
+    "name": "MSI X399 GAMING PRO CARBON AC"
+  },
+  {
+    "price": 46989,
+    "name": "Asus ROG ZENITH EXTREME"
+  },
+  {
+    "price": 64599,
+    "name": "Asus ROG RAMPAGE VI EXTREME"
+  },
+  {
+    "price": 16906,
+    "name": "Asus Prime Z370-A"
+  },
+  {
+    "price": 15549,
+    "name": "Asus ROG Strix Z370-H Gaming"
+  },
+  {
+    "price": 17799,
+    "name": "Asus ROG Strix Z370-I Gaming"
+  },
+  {
+    "price": 11704,
+    "name": "Asus Prime Z370-P"
+  },
+  {
+    "price": 19989,
+    "name": "Asus ROG STRIX Z370-E GAMING"
+  },
+  {
+    "price": 16479,
+    "name": "MSI Z370 GAMING M5"
+  },
+  {
+    "price": 18398,
+    "name": "MSI Z370 GAMING PRO CARBON AC"
+  },
+  {
+    "price": 12999,
+    "name": "MSI Z370 GAMING PRO CARBON"
+  },
+  {
+    "price": 11188,
+    "name": "MSI Z370 TOMAHAWK"
+  },
+  {
+    "price": 25777,
+    "name": "Asus ROG MAXIMUS X HERO (WI-FI AC)"
+  },
+  {
+    "price": 20694,
+    "name": "ASRock Z370 Taichi"
+  },
+  {
+    "price": 15399,
+    "name": "ASRock Z370 Extreme4"
+  },
+  {
+    "price": 9698,
+    "name": "ASRock Z370 Pro4"
+  },
+  {
+    "price": 11559,
+    "name": "ASRock Z370M-ITX/ac"
+  },
+  {
+    "price": 8999,
+    "name": "ASRock Z370M Pro4"
+  },
+  {
+    "price": 8999,
+    "name": "MSI Z370 GAMING PLUS"
+  },
+  {
+    "price": 10186,
+    "name": "MSI Z370-A PRO"
+  },
+  {
+    "price": 20999,
+    "name": "Gigabyte Z370 AORUS Gaming 7 (rev. 1.0)"
+  },
+  {
+    "price": 16999,
+    "name": "Gigabyte Z370 AORUS Gaming 5 (rev. 1.0)"
+  },
+  {
+    "price": 15388,
+    "name": "Gigabyte Z370 AORUS GAMING WIFI (rev. 1.0)"
+  },
+  {
+    "price": 5898,
+    "name": "MSI B350M PRO-VD PLUS"
+  },
+  {
+    "price": 17794,
+    "name": "Asus ROG STRIX Z370-F GAMING"
+  },
+  {
+    "price": 15749,
+    "name": "MSI Z370M GAMING PRO AC"
+  },
+  {
+    "price": 13499,
+    "name": "MSI Z370 SLI PLUS"
+  },
+  {
+    "price": 18499,
+    "name": "Asus ROG STRIX Z370-G GAMING (WI-FI AC)"
+  },
+  {
+    "price": 34342,
+    "name": "Asus ROG MAXIMUS X FORMULA"
+  },
+  {
+    "price": 18999,
+    "name": "Asus ROG STRIX X370-I GAMING"
+  },
+  {
+    "price": 10374,
+    "name": "Gigabyte Z370P D3"
+  },
+  {
+    "price": 26999,
+    "name": "Asus ROG MAXIMUS X CODE"
+  },
+  {
+    "price": 5999,
+    "name": "ASRock X370 Pro4"
+  },
+  {
+    "price": 11685,
+    "name": "Gigabyte B360 AORUS Gaming 3 WIFI"
+  },
+  {
+    "price": 10809,
+    "name": "MSI B360 GAMING ARCTIC"
+  },
+  {
+    "price": 7999,
+    "name": "MSI B360 GAMING PLUS"
+  },
+  {
+    "price": 7250,
+    "name": "MSI B360-A PRO"
+  },
+  {
+    "price": 6489,
+    "name": "MSI B360M PRO-VD"
+  },
+  {
+    "price": 7195,
+    "name": "ASRock B360M Pro4"
+  },
+  {
+    "price": 5699,
+    "name": "ASRock H310M-HDV"
+  },
+  {
+    "price": 13609,
+    "name": "Asus ROG Strix H370-I Gaming"
+  },
+  {
+    "price": 8199,
+    "name": "Gigabyte B360 HD3"
+  },
+  {
+    "price": 6809,
+    "name": "Gigabyte B360M DS3H"
+  },
+  {
+    "price": 5541,
+    "name": "Gigabyte H310M A"
+  },
+  {
+    "price": 25589,
+    "name": "Asus ROG Crosshair VII Hero"
+  },
+  {
+    "price": 28089,
+    "name": "Asus ROG Crosshair VII Hero (Wi-Fi)"
+  },
+  {
+    "price": 16499,
+    "name": "Asus Prime X470-Pro"
+  },
+  {
+    "price": 19933,
+    "name": "Asus ROG STRIX X470-F Gaming"
+  },
+  {
+    "price": 17823,
+    "name": "Gigabyte X470 AORUS GAMING 5 WIFI"
+  },
+  {
+    "price": 12999,
+    "name": "Gigabyte X470 AORUS ULTRA GAMING"
+  },
+  {
+    "price": 12999,
+    "name": "MSI X470 GAMING PLUS"
+  },
+  {
+    "price": 17398,
+    "name": "ASRock Fatal1ty X470 Gaming-ITX/ac"
+  },
+  {
+    "price": 14398,
+    "name": "ASRock X470 Master SLI/AC"
+  },
+  {
+    "price": 23889,
+    "name": "Gigabyte X470 AORUS GAMING 7 WIFI"
+  },
+  {
+    "price": 20799,
+    "name": "Asus ROG STRIX X470-I GAMING"
+  },
+  {
+    "price": 16598,
+    "name": "MSI X470 GAMING PRO CARBON"
+  },
+  {
+    "price": 6499,
+    "name": "Gigabyte GA-AB350M-DS3H"
+  },
+  {
+    "price": 12775,
+    "name": "Biostar X470GTN"
+  }
+]

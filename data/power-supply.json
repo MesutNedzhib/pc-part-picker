@@ -1,0 +1,402 @@
+[
+    {
+      "price": 3999,
+      "name": "SeaSonic M12II 520 Bronze"
+    },
+    {
+      "price": 3499,
+      "name": "SeaSonic S12II 620 Bronze"
+    },
+    {
+      "price": 1799,
+      "name": "Logisys PS480D-BK"
+    },
+    {
+      "price": 27999,
+      "name": "Corsair AX1200i"
+    },
+    {
+      "price": 2898,
+      "name": "Corsair CX500"
+    },
+    {
+      "price": 6999,
+      "name": "Corsair CX750M"
+    },
+    {
+      "price": 14130,
+      "name": "Corsair CX600M"
+    },
+    {
+      "price": 11179,
+      "name": "Corsair CX500M"
+    },
+    {
+      "price": 9730,
+      "name": "SeaSonic SS-400FL2"
+    },
+    {
+      "price": 1999,
+      "name": "EVGA 500B"
+    },
+    {
+      "price": 22999,
+      "name": "EVGA SuperNOVA 1000"
+    },
+    {
+      "price": 2999,
+      "name": "EVGA 600B"
+    },
+    {
+      "price": 4999,
+      "name": "Silverstone ST30SF"
+    },
+    {
+      "price": 3989,
+      "name": "EVGA 100-W1-0500-KR"
+    },
+    {
+      "price": 5989,
+      "name": "EVGA 100-W1-0430-KR"
+    },
+    {
+      "price": 9989,
+      "name": "EVGA SuperNOVA 850"
+    },
+    {
+      "price": 8398,
+      "name": "EVGA SuperNOVA 750"
+    },
+    {
+      "price": 5999,
+      "name": "Thermaltake PS-TPD-0750MPCGUS-1"
+    },
+    {
+      "price": -1,
+      "name": "Corsair VS650"
+    },
+    {
+      "price": 5640,
+      "name": "SeaSonic SS-620GM2"
+    },
+    {
+      "price": 41672,
+      "name": "Corsair AX1500i"
+    },
+    {
+      "price": 7598,
+      "name": "EVGA SuperNOVA 650"
+    },
+    {
+      "price": 23839,
+      "name": "EVGA SuperNOVA 1200"
+    },
+    {
+      "price": -1,
+      "name": "Corsair VS550"
+    },
+    {
+      "price": 16989,
+      "name": "Corsair HX850i"
+    },
+    {
+      "price": 16999,
+      "name": "Corsair HX1000i"
+    },
+    {
+      "price": 37078,
+      "name": "EVGA SuperNOVA 1600"
+    },
+    {
+      "price": 2499,
+      "name": "Thermaltake PS-TR2-0500NPCBUS-B"
+    },
+    {
+      "price": 1999,
+      "name": "EVGA 100-N1-0400-L1"
+    },
+    {
+      "price": 40641,
+      "name": "EVGA SuperNOVA 1600"
+    },
+    {
+      "price": 9499,
+      "name": "Silverstone SST-SX500-LG"
+    },
+    {
+      "price": 17999,
+      "name": "Corsair HX1200i"
+    },
+    {
+      "price": 7985,
+      "name": "EVGA SuperNOVA 550"
+    },
+    {
+      "price": 6999,
+      "name": "EVGA SuperNOVA 650"
+    },
+    {
+      "price": 9398,
+      "name": "EVGA SuperNOVA 650"
+    },
+    {
+      "price": 10999,
+      "name": "EVGA SuperNOVA 750"
+    },
+    {
+      "price": 13999,
+      "name": "EVGA SuperNOVA 850"
+    },
+    {
+      "price": 9999,
+      "name": "Corsair RM550x"
+    },
+    {
+      "price": 11999,
+      "name": "Corsair RM650x"
+    },
+    {
+      "price": 9999,
+      "name": "Corsair RM750x"
+    },
+    {
+      "price": 13999,
+      "name": "Corsair RM1000x"
+    },
+    {
+      "price": 2499,
+      "name": "Thermaltake PS-SPD-0500NPCWUS-W"
+    },
+    {
+      "price": 5999,
+      "name": "EVGA 210-GQ-0650-V1"
+    },
+    {
+      "price": 6999,
+      "name": "EVGA 210-GQ-0750-V1"
+    },
+    {
+      "price": -1,
+      "name": "Super Flower SF-2000F14HP"
+    },
+    {
+      "price": 22989,
+      "name": "EVGA SuperNOVA 850"
+    },
+    {
+      "price": 29989,
+      "name": "EVGA SuperNOVA 1000"
+    },
+    {
+      "price": 1699,
+      "name": "CoolMax I-500"
+    },
+    {
+      "price": 8664,
+      "name": "Corsair SF450"
+    },
+    {
+      "price": 11496,
+      "name": "Corsair SF600"
+    },
+    {
+      "price": 2699,
+      "name": "Corsair CX450M (2015)"
+    },
+    {
+      "price": 4999,
+      "name": "Corsair CX550M"
+    },
+    {
+      "price": 7187,
+      "name": "Corsair CX650M"
+    },
+    {
+      "price": 5489,
+      "name": "EVGA 110-BQ-0650-V1"
+    },
+    {
+      "price": 4999,
+      "name": "EVGA SuperNOVA 550"
+    },
+    {
+      "price": 7398,
+      "name": "EVGA SuperNOVA 650"
+    },
+    {
+      "price": 7999,
+      "name": "EVGA SuperNOVA 750"
+    },
+    {
+      "price": 10598,
+      "name": "EVGA SuperNOVA 850"
+    },
+    {
+      "price": 15989,
+      "name": "EVGA SuperNOVA 1000"
+    },
+    {
+      "price": 2999,
+      "name": "EVGA 100-N1-0550-L1"
+    },
+    {
+      "price": 3989,
+      "name": "EVGA 110-BQ-0500-K1"
+    },
+    {
+      "price": 3375,
+      "name": "Corsair VS400"
+    },
+    {
+      "price": 2999,
+      "name": "EVGA 100-W1-0600-K1"
+    },
+    {
+      "price": 4999,
+      "name": "EVGA 110-BQ-0600-K1"
+    },
+    {
+      "price": -1,
+      "name": "EVGA SuperNOVA 650 (EU)"
+    },
+    {
+      "price": 11499,
+      "name": "be quiet! BN276"
+    },
+    {
+      "price": 162344,
+      "name": "Cooler Master MPZ-C002-AFBAT"
+    },
+    {
+      "price": 5989,
+      "name": "EVGA 220-B3-0450-V1"
+    },
+    {
+      "price": 5398,
+      "name": "Corsair TX550M Gold"
+    },
+    {
+      "price": 7989,
+      "name": "Corsair TX650M Gold"
+    },
+    {
+      "price": 6999,
+      "name": "Thermaltake PS-SPR-0750FPCBUS-R"
+    },
+    {
+      "price": 6999,
+      "name": "Thermaltake PS-TPG-0650FPCGUS-R"
+    },
+    {
+      "price": 9999,
+      "name": "Thermaltake PS-TPG-0850FPCGUS-R"
+    },
+    {
+      "price": 15999,
+      "name": "Corsair HX1000 Platinum"
+    },
+    {
+      "price": 11999,
+      "name": "Corsair HX750 Platinum"
+    },
+    {
+      "price": 4499,
+      "name": "Corsair CX450 (2017)"
+    },
+    {
+      "price": 4999,
+      "name": "Corsair CX550 (2017)"
+    },
+    {
+      "price": 4499,
+      "name": "Corsair CX650 (2017)"
+    },
+    {
+      "price": 6999,
+      "name": "SeaSonic FOCUS Plus 550 Gold"
+    },
+    {
+      "price": 6999,
+      "name": "SeaSonic FOCUS Plus 650 Gold"
+    },
+    {
+      "price": 9699,
+      "name": "SeaSonic FOCUS Plus 750 Gold"
+    },
+    {
+      "price": 8499,
+      "name": "SeaSonic FOCUS PLUS 850 Gold"
+    },
+    {
+      "price": 17999,
+      "name": "Corsair RM850x White"
+    },
+    {
+      "price": 15498,
+      "name": "Corsair RM750x White"
+    },
+    {
+      "price": 2999,
+      "name": "EVGA 100-BT-0450-K1"
+    },
+    {
+      "price": 8999,
+      "name": "SeaSonic SSR-650PX"
+    },
+    {
+      "price": 10499,
+      "name": "SeaSonic SSR-750PX"
+    },
+    {
+      "price": 12882,
+      "name": "SeaSonic SSR-850PX"
+    },
+    {
+      "price": 4373,
+      "name": "Thermaltake PS-SPR-0500NHFAWU-1"
+    },
+    {
+      "price": 5399,
+      "name": "Cooler Master MasterWatt 550"
+    },
+    {
+      "price": 5849,
+      "name": "Cooler Master MPX-6501-AMAAB-US"
+    },
+    {
+      "price": 5499,
+      "name": "SeaSonic SSR-550FM"
+    },
+    {
+      "price": 5399,
+      "name": "SeaSonic SSR-450FM"
+    },
+    {
+      "price": 41989,
+      "name": "Corsair AX1600i"
+    },
+    {
+      "price": 6489,
+      "name": "EVGA 120-GP-0650-X1"
+    },
+    {
+      "price": 12989,
+      "name": "EVGA 120-GP-1000-X1"
+    },
+    {
+      "price": 6498,
+      "name": "Cooler Master MPX-7501-AMAAB-US"
+    },
+    {
+      "price": 10999,
+      "name": "Corsair RM750x (2018)"
+    },
+    {
+      "price": 12999,
+      "name": "Corsair RM850x (2018)"
+    },
+    {
+      "price": 23899,
+      "name": "SeaSonic SSR-1000TR"
+    }
+]

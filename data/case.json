@@ -1,0 +1,402 @@
+[
+  {
+    "price": 3999,
+    "name": "Corsair 200R"
+  },
+  {
+    "price": 8559,
+    "name": "Fractal Design Node 304"
+  },
+  {
+    "price": 3899,
+    "name": "Cooler Master N200"
+  },
+  {
+    "price": 12499,
+    "name": "Corsair Air 540"
+  },
+  {
+    "price": 4414,
+    "name": "Cooler Master Elite 130"
+  },
+  {
+    "price": 13999,
+    "name": "Corsair 750D"
+  },
+  {
+    "price": 3598,
+    "name": "Cooler Master Elite 110"
+  },
+  {
+    "price": 3699,
+    "name": "Thermaltake Versa H22"
+  },
+  {
+    "price": 5999,
+    "name": "Corsair SPEC-02"
+  },
+  {
+    "price": 16999,
+    "name": "Corsair 760T Black"
+  },
+  {
+    "price": 9999,
+    "name": "Phanteks Enthoo Pro"
+  },
+  {
+    "price": 4599,
+    "name": "Thermaltake Core V1"
+  },
+  {
+    "price": 2999,
+    "name": "Deepcool TESSERACT SW"
+  },
+  {
+    "price": 5999,
+    "name": "NZXT S340 (White)"
+  },
+  {
+    "price": 5999,
+    "name": "NZXT S340 (Black)"
+  },
+  {
+    "price": 5994,
+    "name": "DIYPC Gamemax-W"
+  },
+  {
+    "price": 3499,
+    "name": "Thermaltake Core V21"
+  },
+  {
+    "price": 5999,
+    "name": "NZXT S340 (Black/Blue)"
+  },
+  {
+    "price": 4999,
+    "name": "NZXT S340 (Black/Red)"
+  },
+  {
+    "price": 3999,
+    "name": "Corsair 100R"
+  },
+  {
+    "price": 5012,
+    "name": "Silverstone Sugo SG13B"
+  },
+  {
+    "price": 7699,
+    "name": "Fractal Design Node 202"
+  },
+  {
+    "price": 2299,
+    "name": "Rosewill SRM-01"
+  },
+  {
+    "price": 14999,
+    "name": "Corsair 750D Airflow Edition"
+  },
+  {
+    "price": 9999,
+    "name": "Cooler Master MasterCase Pro 5"
+  },
+  {
+    "price": 3799,
+    "name": "Thermaltake Versa H15"
+  },
+  {
+    "price": 2999,
+    "name": "Deepcool TESSERACT SW RED"
+  },
+  {
+    "price": 7999,
+    "name": "NZXT H440 (Matte Black/Red)"
+  },
+  {
+    "price": 2899,
+    "name": "Corsair Carbide Series 88R"
+  },
+  {
+    "price": 2698,
+    "name": "Raidmax Viper II"
+  },
+  {
+    "price": 8999,
+    "name": "Corsair Carbide Clear 600C"
+  },
+  {
+    "price": 2998,
+    "name": "DIYPC DIY-F2-P"
+  },
+  {
+    "price": 11999,
+    "name": "Fractal Design Node 202"
+  },
+  {
+    "price": 5999,
+    "name": "Corsair Carbide 400C"
+  },
+  {
+    "price": 4499,
+    "name": "Fractal Design Define Nano S"
+  },
+  {
+    "price": 6699,
+    "name": "Fractal Design Define Nano S"
+  },
+  {
+    "price": 15999,
+    "name": "Phanteks Enthoo Evolv ATX Glass"
+  },
+  {
+    "price": 11999,
+    "name": "Corsair Crystal 460X RGB"
+  },
+  {
+    "price": 7999,
+    "name": "NZXT S340 Elite (White)"
+  },
+  {
+    "price": 7999,
+    "name": "NZXT S340 Elite (Black)"
+  },
+  {
+    "price": 7499,
+    "name": "NZXT S340 Elite (Black/Red)"
+  },
+  {
+    "price": 6499,
+    "name": "Fractal Design Define Mini C"
+  },
+  {
+    "price": 10499,
+    "name": "Corsair Crystal 460X"
+  },
+  {
+    "price": 3999,
+    "name": "Corsair 270R"
+  },
+  {
+    "price": 17008,
+    "name": "Corsair Crystal 570X RGB"
+  },
+  {
+    "price": 9428,
+    "name": "Phanteks Enthoo Pro M Tempered Glass (Black)"
+  },
+  {
+    "price": 6999,
+    "name": "Phanteks ECLIPSE P400 TEMPERED GLASS"
+  },
+  {
+    "price": 6999,
+    "name": "Phanteks ECLIPSE P400 TEMPERED GLASS"
+  },
+  {
+    "price": 8999,
+    "name": "Phanteks ECLIPSE P400S TEMPERED GLASS"
+  },
+  {
+    "price": 8999,
+    "name": "Phanteks ECLIPSE P400S TEMPERED GLASS"
+  },
+  {
+    "price": 5999,
+    "name": "NZXT S340 (Matte White/Purple)"
+  },
+  {
+    "price": 92098,
+    "name": "Phanteks Enthoo Elite (Black)"
+  },
+  {
+    "price": 4479,
+    "name": "Corsair Carbide SPEC-04 (Black/Red)"
+  },
+  {
+    "price": 2999,
+    "name": "Corsair Carbide SPEC-04 (Black/Gray)"
+  },
+  {
+    "price": 4499,
+    "name": "Fractal Design Focus G (Black)"
+  },
+  {
+    "price": 4499,
+    "name": "Fractal Design Focus G (White)"
+  },
+  {
+    "price": 4999,
+    "name": "Fractal Design Focus G Mini (Black)"
+  },
+  {
+    "price": 4140,
+    "name": "Cooler Master MasterBox Lite 5"
+  },
+  {
+    "price": 15999,
+    "name": "Corsair Crystal 570X RGB White"
+  },
+  {
+    "price": 3398,
+    "name": "Cooler Master MasterBox Lite 3.1"
+  },
+  {
+    "price": 5999,
+    "name": "Fractal Design Define Mini C TG"
+  },
+  {
+    "price": 8899,
+    "name": "Fractal Design Meshify C Dark TG"
+  },
+  {
+    "price": 4499,
+    "name": "Thermaltake Core G21 Tempered Glass Edition"
+  },
+  {
+    "price": 1999,
+    "name": "Rosewill SCM-01"
+  },
+  {
+    "price": 8611,
+    "name": "Phanteks Enthoo EVOLV ITX TG (Black)"
+  },
+  {
+    "price": 10054,
+    "name": "Phanteks ENTHOO EVOLV SHIFT"
+  },
+  {
+    "price": 16999,
+    "name": "Thermaltake  View 71 TG RGB"
+  },
+  {
+    "price": 6853,
+    "name": "Cooler Master MasterBox Lite 5 RGB"
+  },
+  {
+    "price": 5999,
+    "name": "Phanteks Eclipse P300 Tempered Glass (Black)"
+  },
+  {
+    "price": 8998,
+    "name": "Cooler Master MasterCase H500P"
+  },
+  {
+    "price": 2499,
+    "name": "Cougar MX330"
+  },
+  {
+    "price": 19700,
+    "name": "NZXT H700i"
+  },
+  {
+    "price": 17483,
+    "name": "NZXT H700i"
+  },
+  {
+    "price": 12098,
+    "name": "NZXT H200i (White/Black)"
+  },
+  {
+    "price": 12098,
+    "name": "NZXT H200i (Black)"
+  },
+  {
+    "price": 7999,
+    "name": "Cooler Master MasterBox Pro 5 RGB"
+  },
+  {
+    "price": 3999,
+    "name": "Corsair Carbide SPEC-04 TG"
+  },
+  {
+    "price": 11999,
+    "name": "Fractal Design Define R6 Black"
+  },
+  {
+    "price": 13999,
+    "name": "Fractal Design Define R6 Blackout TG"
+  },
+  {
+    "price": 10999,
+    "name": "Fractal Design Define R6 Black TG"
+  },
+  {
+    "price": 7999,
+    "name": "Fractal Design Meshify C Mini Dark TG"
+  },
+  {
+    "price": 6999,
+    "name": "Fractal Design Meshify C"
+  },
+  {
+    "price": 8896,
+    "name": "Fractal Design Meshify C TG"
+  },
+  {
+    "price": 3999,
+    "name": "Cooler Master MasterBox Q300L"
+  },
+  {
+    "price": 14999,
+    "name": "Cooler Master MasterCase H500P Mesh White"
+  },
+  {
+    "price": 10298,
+    "name": "Fractal Design Meshify C White TG"
+  },
+  {
+    "price": 7999,
+    "name": "Corsair Carbide Series 275R (Black w/Tempered Glass)"
+  },
+  {
+    "price": 7999,
+    "name": "Corsair Carbide Series 275R (White w/Tempered Glass)"
+  },
+  {
+    "price": 13998,
+    "name": "Lian-Li PC-O11DW"
+  },
+  {
+    "price": 14999,
+    "name": "Corsair SPEC-OMEGA RGB"
+  },
+  {
+    "price": 14999,
+    "name": "Corsair SPEC-OMEGA RGB"
+  },
+  {
+    "price": 3499,
+    "name": "Corsair SPEC-05"
+  },
+  {
+    "price": 20998,
+    "name": "Cooler Master MasterCase H500M"
+  },
+  {
+    "price": 49999,
+    "name": "Corsair Obsidian Series 1000D"
+  },
+  {
+    "price": 6499,
+    "name": "NZXT H500 (Black)"
+  },
+  {
+    "price": 6499,
+    "name": "NZXT H500 (White)"
+  },
+  {
+    "price": 9499,
+    "name": "NZXT H500i (White)"
+  },
+  {
+    "price": 9499,
+    "name": "NZXT H500i (Black)"
+  },
+  {
+    "price": 7499,
+    "name": "Phanteks Eclipse P350X (Black)"
+  },
+  {
+    "price": 24999,
+    "name": "Corsair Obsidian 500D RGB SE"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "price": -1,
+    "name": "Thermaltake Water 3.0 Extreme"
+  },
+  {
+    "price": 9499,
+    "name": "Corsair H105"
+  },
+  {
+    "price": 11498,
+    "name": "NZXT Kraken X61"
+  },
+  {
+    "price": 11749,
+    "name": "Thermaltake Water 3.0 Ultimate"
+  },
+  {
+    "price": 10435,
+    "name": "CRYORIG A40"
+  },
+  {
+    "price": 11435,
+    "name": "CRYORIG A40 ULTIMATE"
+  },
+  {
+    "price": 12445,
+    "name": "CRYORIG A80"
+  },
+  {
+    "price": -1,
+    "name": "ARCTIC Liquid Freezer 240"
+  },
+  {
+    "price": 10999,
+    "name": "Thermaltake Water 3.0 Riing RGB 240"
+  },
+  {
+    "price": 13999,
+    "name": "Thermaltake Water 3.0 Riing RGB 360"
+  },
+  {
+    "price": 10499,
+    "name": "Corsair H100i v2"
+  },
+  {
+    "price": 12700,
+    "name": "Corsair H115i"
+  },
+  {
+    "price": 9489,
+    "name": "Corsair H80i v2"
+  },
+  {
+    "price": -1,
+    "name": "be quiet! Silent Loop 280"
+  },
+  {
+    "price": 18550,
+    "name": "be quiet! Silent Loop 120"
+  },
+  {
+    "price": -1,
+    "name": "be quiet! Silent Loop 240"
+  },
+  {
+    "price": 19989,
+    "name": "NZXT Kraken X62"
+  },
+  {
+    "price": 14789,
+    "name": "NZXT Kraken X52"
+  },
+  {
+    "price": 11572,
+    "name": "ARCTIC Liquid Freezer 360"
+  },
+  {
+    "price": 10999,
+    "name": "EVGA CLC 280"
+  },
+   {
+    "price": 9657,
+    "name": "Fractal Design Celsius S24"
+  },
+   {
+    "price": 11699,
+    "name": "Fractal Design Celsius S36"
+  },
+   {
+    "price": 13039,
+    "name": "NZXT Kraken X52 Rev 2"
+  },
+   {
+    "price": 14589,
+    "name": "NZXT Kraken X62 Rev 2"
+  },
+   {
+    "price": 7990,
+    "name": "Noctua NH-U14S TR4-SP3"
+  },
+   {
+    "price": 6990,
+    "name": "Noctua NH-U12S TR4-SP3"
+  },
+   {
+    "price": 6990,
+    "name": "Noctua NH-U9 TR4-SP3"
+  },
+   {
+    "price": 11724,
+    "name": "Enermax LiqTech TR4 240"
+  },
+   {
+    "price": 13196,
+    "name": "Enermax LiqTech TR4 360"
+  },
+   {
+    "price": -1,
+    "name": "be quiet! Silent Loop 360"
+  },
+   {
+    "price": 17512,
+    "name": "Thermaltake Floe Riing RGB 360 TT Premium Edition"
+  },
+   {
+    "price": 3903,
+    "name": "ARCTIC Freezer 33 TR (Black/Red)"
+  },
+   {
+    "price": 3805,
+    "name": "ARCTIC Freezer 33 TR (Black/White)"
+  },
+   {
+    "price": 12205,
+    "name": "Enermax LIQTECH TR4 280"
+  },
+   {
+    "price": 7999,
+    "name": "NZXT Kraken M22"
+  },
+   {
+    "price": 18199,
+    "name": "NZXT Kraken X72"
+  },
+  {
+    "price": 5000,
+    "name": "Cooler Master MA621P TR4"
+  }
+]
