@@ -101,11 +101,13 @@ $('#add-another-set').on('click', function () {
 
 	// Create li element (cart symmary)
 	const elementLiSummary = $('<li>').addClass('list-group-item d-flex justify-content-between');
-
 	elementLiSummary.html(`
 		<span>Total (USD)</span>
 		<strong id="cart-summary">$${calcCartSummary(cart)}</strong>
 	`);
+
+	// Remove empty cart - alert
+	$('#alert-empty').remove();
 
 	// Append created elements to list
 	$('#list-group').append(elementLi);
