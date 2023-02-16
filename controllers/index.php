@@ -1,5 +1,12 @@
 <?php
 
+/**
+	* [validateField description]
+	*
+	* @param   [String or Number]  $value  [$value description]
+	*
+	* @return  [JSON]          [return description]
+	*/
 function validateField($value)
 {
 	if (!preg_match("/^[a-zA-Z0-9\s\p{P}]*$/", $value)) {
@@ -9,6 +16,13 @@ function validateField($value)
 	}
 }
 
+/**
+	* [validateEmail description]
+	*
+	* @param   [String]  $email  [$email description]
+	*
+	* @return  [JSON]          [return description]
+	*/
 function validateEmail($email)
 {
 	if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -18,6 +32,13 @@ function validateEmail($email)
 	}
 }
 
+/**
+	* [validatePhoneNumber description]
+	*
+	* @param   [Number]  $phoneNumber  [$phoneNumber description]
+	*
+	* @return  [JSON]                [return description]
+	*/
 function validatePhoneNumber($phoneNumber)
 {
 	if (!preg_match("/^[0-9]{10}$/", $phoneNumber)) {
@@ -28,8 +49,8 @@ function validatePhoneNumber($phoneNumber)
 }
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-	// Get form data
 
+	// Get form data
 	$firstName = $_POST['firstName'];
 	$lastName = $_POST['lastName'];
 	$email = $_POST['email'];

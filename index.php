@@ -314,6 +314,6 @@ include_once __DIR__ . '/inc/helpers.php';
 	<script src="../../assets/js/vendor/popper.min.js"></script>
 	<script src="../../dist/js/bootstrap.min.js"></script>
 	<script src="../../assets/js/vendor/holder.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="js/main.js" type="module"></script>
 </body>
 </html>
