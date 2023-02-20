@@ -61,6 +61,7 @@ $('#add-another-set').on('click', function () {
 
 	if (item.length > 0) {
 		cart.push(item);
+		$('#alert-empty').remove();
 		alert('Set added to cart!');
 	}
 
@@ -106,16 +107,12 @@ $('#add-another-set').on('click', function () {
 		<strong id="cart-summary">$${calcCartSummary(cart)}</strong>
 	`);
 
-	// Remove empty cart - alert
-	$('#alert-empty').remove();
-
 	// Append created elements to list
 	$('#list-group').append(elementLi);
 
 	if ($('#cart-summary').length > 0) {
 		$('#cart-summary').parent().remove();
-		$('#list-group').append(elementLiSummary);
-	} else {
-		$('#list-group').append(elementLiSummary);
 	}
+
+	$('#list-group').append(elementLiSummary);
 });

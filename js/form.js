@@ -50,6 +50,36 @@ function validatePhoneNumber(value) {
 	}
 }
 
+/**
+	* [checkFileds description]
+	*
+	* @param   {[Object]}  object  [object description]
+	*
+	* @return  {[Boolean]}          [return description]
+	*/
+function checkFileds(object) {
+	let isValid = true;
+
+	for (let field in object) {
+		if (!validateField(field)) {
+			isValid = false;
+			break;
+		} else if (field === 'email') {
+			if (!validateEmail(object[field])) {
+				isValid = false;
+				break;
+			}
+		} else if (field === 'phoneNumber') {
+			if (!validatePhoneNumber(object[field])) {
+				isValid = false;
+				break;
+			}
+		}
+	}
+
+	return isValid;
+}
+
 // Hanlde form
 $('#form').submit(function (e) {
 	e.preventDefault();
@@ -67,41 +97,27 @@ $('#form').submit(function (e) {
 	const ccExpiration = $('#cc-expiration').val();
 	const ccCVV = $('#cc-cvv').val();
 
-	// Validate fields
-	if (
-		validateField(firstName) &&
-		validateField(lastName) &&
-		validateEmail(email) &&
-		validatePhoneNumber(phoneNumber) &&
-		validateField(address) &&
-		validateField(country) &&
-		validateField(state) &&
-		validateField(zip) &&
-		validateField(ccName) &&
-		validateField(ccNumber) &&
-		validateField(ccExpiration) &&
-		validateField(ccCVV)
-	) {
-		const formData = {
-			firstName: firstName,
-			lastName: lastName,
-			email: email,
-			phoneNumber: phoneNumber,
-			address: address,
-			country: country,
-			state: state,
-			zip: zip,
-			ccName: ccName,
-			ccNumber: ccNumber,
-			ccExpiration: ccExpiration,
-			ccCVV: ccCVV
-		};
+	const userData = {
+		firstName: firstName,
+		lastName: lastName,
+		email: email,
+		phoneNumber: phoneNumber,
+		address: address,
+		country: country,
+		state: state,
+		zip: zip,
+		ccName: ccName,
+		ccNumber: ccNumber,
+		ccExpiration: ccExpiration,
+		ccCVV: ccCVV
+	};
 
+	if (checkFileds(userData)) {
 		// Send data
 		$.ajax({
 			method: 'POST',
 			url: 'controllers/index.php',
-			data: formData,
+			data: userData,
 			dataType: 'json',
 			success: function (response) {
 				console.log(response);

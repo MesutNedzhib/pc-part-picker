@@ -48,54 +48,65 @@ function validatePhoneNumber($phoneNumber)
 	}
 }
 
+/**
+	* [checkFileds description]
+	*
+	* @param   [Array]  $object  [$object description]
+	*
+	* @return  [JSON]           [return description]
+	*/
+function checkFileds($array)
+{
+	foreach ($array as $prop => $value) {
+		if ($prop !== 'email' || $prop !== 'phoneNumber') {
+			validateField($value);
+		} else if ($prop === 'email') {
+			validateEmail($value);
+		} else if ($prop === 'phoneNumber') {
+			validatePhoneNumber($value);
+		}
+	}
+
+	$response = ['success' => true, 'message' => 'Successfully submit'];
+	echo json_encode($response);
+}
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-
-	// Get form data
-	$firstName = $_POST['firstName'];
-	$lastName = $_POST['lastName'];
-	$email = $_POST['email'];
-	$phoneNumber = $_POST['phoneNumber'];
-	$address = $_POST['address'];
-	$country = $_POST['country'];
-	$state = $_POST['state'];
-	$zip = $_POST['zip'];
-	$ccName = $_POST['ccName'];
-	$ccNumber = $_POST['ccNumber'];
-	$ccExpiration = $_POST['ccExpiration'];
-	$ccCVV = $_POST['ccCVV'];
-
 	if (
-		!isset($firstName) &&
-		!isset($lastName) &&
-		!isset($email) &&
-		!isset($phoneNumber) &&
-		!isset($address) &&
-		!isset($country) &&
-		!isset($state) &&
-		!isset($zip) &&
-		!isset($ccName) &&
-		!isset($ccNumber) &&
-		!isset($ccExpiration) &&
-		!isset($ccCVV)
+		!isset($_POST['firstName']) &&
+		!isset($_POST['lastName']) &&
+		!isset($_POST['email']) &&
+		!isset($_POST['phoneNumber']) &&
+		!isset($_POST['address']) &&
+		!isset($_POST['country']) &&
+		!isset($_POST['state']) &&
+		!isset($_POST['zip']) &&
+		!isset($_POST['ccName']) &&
+		!isset($_POST['ccNumber']) &&
+		!isset($_POST['ccExpiration']) &&
+		!isset($_POST['ccCVV'])
 	) {
 		$response = ['success' => false, 'message' => 'Please fill in all fields.'];
 		echo json_encode($response);
 		return;
+	} else {
+		// Get form data
+		$user = array(
+			'firstName' => $_POST['firstName'],
+			'lastName' => $_POST['lastName'],
+			'email' => $_POST['email'],
+			'phoneNumber' => $_POST['phoneNumber'],
+			'address' => $_POST['address'],
+			'country' => $_POST['country'],
+			'state' => $_POST['state'],
+			'zip' => $_POST['zip'],
+			'ccName' => $_POST['ccName'],
+			'ccNumber' => $_POST['ccNumber'],
+			'ccExpiration' => $_POST['ccExpiration'],
+			'ccCVV' => $_POST['ccCVV']
+		);
+
+		// Check and response
+		checkFileds($user);
 	}
-
-	validateField($firstName);
-	validateField($lastName);
-	validateEmail($email);
-	validatePhoneNumber($phoneNumber);
-	validateField($address);
-	validateField($country);
-	validateField($state);
-	validateField($zip);
-	validateField($ccName);
-	validateField($ccNumber);
-	validateField($ccExpiration);
-	validateField($ccCVV);
-
-	$response = ['success' => true, 'message'=> 'Successfully submit'];
-	echo json_encode($response);
 }
